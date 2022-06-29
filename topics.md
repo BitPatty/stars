@@ -583,6 +583,7 @@
 
 ## others 
 
+- [linuxwacom/input-wacom](https://github.com/linuxwacom/input-wacom) - Linux kernel driver for Wacom devices
 - [FPSG-UIUC/hertzbleed](https://github.com/FPSG-UIUC/hertzbleed) - 
 - [dsherret/ts-ast-viewer](https://github.com/dsherret/ts-ast-viewer) - TypeScript AST viewer.
 - [daehli/earthwalker](https://github.com/daehli/earthwalker) - Geoguesser like game
@@ -808,7 +809,7 @@
 ## statistics 
 
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [accord-net/framework](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET
 
