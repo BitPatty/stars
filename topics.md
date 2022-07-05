@@ -124,7 +124,7 @@
 
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
-- [x13a/Volta](https://github.com/x13a/Volta) - Additional actions on volume buttons.
+- [x13a/Volta](https://github.com/x13a/Volta) - Actions on volume buttons.
 - [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) - a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; run fast; create small delta/differential; support large files and limit memory req
 - [TOMB5/TOMB5](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles Disassembly translated to C source code.
 - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader
@@ -491,7 +491,7 @@
 
 ## kotlin 
 
-- [x13a/Volta](https://github.com/x13a/Volta) - Additional actions on volume buttons.
+- [x13a/Volta](https://github.com/x13a/Volta) - Actions on volume buttons.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
