@@ -214,7 +214,7 @@
 
 ## Kotlin 
 
-- [x13a/Volta](https://github.com/x13a/Volta) - Additional actions on volume buttons.
+- [x13a/Volta](https://github.com/x13a/Volta) - Actions on volume buttons.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## NSIS 
