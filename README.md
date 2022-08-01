@@ -33,6 +33,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -41,6 +42,7 @@
 
 ## C 
 
+- [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [linuxwacom/input-wacom](https://github.com/linuxwacom/input-wacom) - Linux kernel driver for Wacom devices
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -97,7 +99,7 @@
 - [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [migueldeicaza/gui.cs](https://github.com/migueldeicaza/gui.cs) - Console-based user interface toolkit for .NET applications.
+- [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [yswenli/SAEA](https://github.com/yswenli/SAEA) - SAEA.Socket is a high-performance IOCP framework TCP based on dotnet standard 2.0; Src contains its application test scenarios, such as websocket,rpc, redis driver, MVC WebAPI, lightweight message ser
 - [fengma312/socket.core](https://github.com/fengma312/socket.core) - This is a socket framework based on C # net standard2.0 write, can be used for .NET Framework / dotnet core assembly, can run in window (IOCP) / linux (epoll) .Use asynchronous connection, asynchronou
 - [Indieteur/GlobalHooks](https://github.com/Indieteur/GlobalHooks) - Allows you to create global keyboard events
@@ -108,6 +110,7 @@
 
 ## C++ 
 
+- [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
 - [mscdex/mmmagic](https://github.com/mscdex/mmmagic) - An async libmagic binding for node.js for detecting content types by data inspection
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [Zephiles/sms-tools](https://github.com/Zephiles/sms-tools) - REL Loader for Super Mario Sunshine.
@@ -264,6 +267,7 @@
 
 ## Python 
 
+- [tarasglek/metallize](https://github.com/tarasglek/metallize) - Create and manage bare metal disk images from docker images
 - [FPSG-UIUC/hertzbleed](https://github.com/FPSG-UIUC/hertzbleed) - 
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [xmendez/wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
@@ -295,6 +299,7 @@
 
 ## Rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [dgiagio/warp](https://github.com/dgiagio/warp) - Create self-contained single binary applications
@@ -344,6 +349,10 @@
 
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
