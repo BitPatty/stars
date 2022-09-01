@@ -17,6 +17,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [NSIS](#nsis)
 - [OCaml](#ocaml)
@@ -110,6 +111,7 @@
 
 ## C++ 
 
+- [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
 - [mscdex/mmmagic](https://github.com/mscdex/mmmagic) - An async libmagic binding for node.js for detecting content types by data inspection
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
@@ -180,6 +182,7 @@
 
 ## JavaScript 
 
+- [veo-labs/ldap-server-mock](https://github.com/veo-labs/ldap-server-mock) - Really simple basic mock for LDAP server
 - [troyhunt/password-purgatory-api](https://github.com/troyhunt/password-purgatory-api) - This is the Cloudflare Worker public API for deliberately making password creation hell
 - [Datamosh-js/datamosh](https://github.com/Datamosh-js/datamosh) - ✨💾 Edit images via buffers. 💯✨
 - [crush-pics/crush-pics-github-action](https://github.com/crush-pics/crush-pics-github-action) - Image Optimizer Action will automatically compress JPEG, PNG and GIF images in your repository using Crush.pics API.
@@ -214,6 +217,10 @@
 ## Julia 
 
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
+
+## Jupyter Notebook 
+
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
 
 ## Kotlin 
 
@@ -332,7 +339,7 @@
 - [cevek/ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
-- [npcz/magic](https://github.com/npcz/magic) - Emscripten binding for libmagic to detect a file type based on its content/extension.
+- [npcz/magic](https://github.com/npcz/magic) - Emscripten / typescript binding for libmagic to detect a file type based on its content/extension.
 - [threema-ch/threema-web](https://github.com/threema-ch/threema-web) - The Threema Web application.
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
