@@ -59,13 +59,14 @@
 - [CnCNet/cnc-ddraw](https://github.com/CnCNet/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows XP, Vista, 7, 8, 10, 11 and Wine
 - [TOMB5/TOMB5](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles Disassembly translated to C source code.
 - [zzattack/munia](https://github.com/zzattack/munia) - Multi-use Nintendo Input Adapter
+- [TASEmulators/BizHawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all 
 
 ## C# # 
 
 - [Soluto/oidc-server-mock](https://github.com/Soluto/oidc-server-mock) - Configurable Mock Server for OpenId Connect
 - [badamczewski/PowerUp](https://github.com/badamczewski/PowerUp) - ⚡ Decompilation Tools and High Productivity Utilities ⚡
 - [TASVideos/tasvideos](https://github.com/TASVideos/tasvideos) - The code for the live TASVideos website
-- [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
+- [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
@@ -104,7 +105,6 @@
 - [yswenli/SAEA](https://github.com/yswenli/SAEA) - SAEA.Socket is a high-performance IOCP framework TCP based on dotnet standard 2.0; Src contains its application test scenarios, such as websocket,rpc, redis driver, MVC WebAPI, lightweight message ser
 - [fengma312/socket.core](https://github.com/fengma312/socket.core) - This is a socket framework based on C # net standard2.0 write, can be used for .NET Framework / dotnet core assembly, can run in window (IOCP) / linux (epoll) .Use asynchronous connection, asynchronou
 - [Indieteur/GlobalHooks](https://github.com/Indieteur/GlobalHooks) - Allows you to create global keyboard events
-- [TASEmulators/BizHawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all 
 - [jaburns/NintendoSpy](https://github.com/jaburns/NintendoSpy) - Live controller viewer for Nintendo consoles.  Includes viewer application for Windows, and Arduino sketch for hardware interface.
 - [topher-au/Farplane](https://github.com/topher-au/Farplane) - A memory editing suite for Final Fantasy X/X-2 HD Remaster
 - [LiveSplit/LiveSplit](https://github.com/LiveSplit/LiveSplit) - A sleek, highly customizable timer for speedrunners.
@@ -146,7 +146,7 @@
 
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
-- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game library for Go
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [benjojo/dnsfs](https://github.com/benjojo/dnsfs) - Store your data in others DNS resolver cache
@@ -162,7 +162,6 @@
 
 - [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
-- [zznidar/lecture-speedrun](https://github.com/zznidar/lecture-speedrun) - Speed up silent portions of a lecture video/audio on-the-fly! Lecture Speedrun. Prototype. Inspired by jumpcutter.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [NicoHood/Nintendo](https://github.com/NicoHood/Nintendo) - Use Nintendo Controllers with Arduino
@@ -191,6 +190,7 @@
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [zznidar/lecture-speedrun](https://github.com/zznidar/lecture-speedrun) - Speed up silent portions of a lecture video/audio on-the-fly! Lecture Speedrun. Prototype. Inspired by jumpcutter.
 - [mbostock/shapefile](https://github.com/mbostock/shapefile) - A cross-platform streaming parser for the ESRI Shapefile spatial data format.
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
@@ -220,7 +220,7 @@
 
 ## Jupyter Notebook 
 
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
 ## Kotlin 
 
@@ -332,6 +332,7 @@
 
 ## TypeScript 
 
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [swarthy/redis-semaphore](https://github.com/swarthy/redis-semaphore) - Distributed mutex and semaphore based on Redis
 - [dsherret/ts-ast-viewer](https://github.com/dsherret/ts-ast-viewer) - TypeScript AST viewer.
 - [madou/typescript-transformer-handbook](https://github.com/madou/typescript-transformer-handbook) - 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples
@@ -343,7 +344,7 @@
 - [threema-ch/threema-web](https://github.com/threema-ch/threema-web) - The Threema Web application.
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - An open-source, on-premise, self-hosted alternative to Cypress Dashboard
+- [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - Open-source, free, self-hosted alternative to Cypress Dashboard
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
