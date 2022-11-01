@@ -16,6 +16,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
+- [bootstrap](#bootstrap)
 - [c](#c)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -127,7 +128,7 @@
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [x13a/Volta](https://github.com/x13a/Volta) - Actions on volume buttons.
-- [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) - a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; run fast; create small delta/differential; support large files and limit memory req
+- [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) - a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory re
 - [TOMB5/TOMB5](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles Disassembly translated to C source code.
 - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader
 - [chandevel/Clover](https://github.com/chandevel/Clover) - Clover - imageboard browser for Android (moved from Floens/Clover)
@@ -138,7 +139,7 @@
 
 ## api 
 
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
@@ -174,6 +175,10 @@
 ## bash 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## bootstrap 
+
+- [TASVideos/tasvideos](https://github.com/TASVideos/tasvideos) - The code for the live TASVideos website
 
 ## c 
 
@@ -221,6 +226,7 @@
 ## csharp 
 
 - [badamczewski/PowerUp](https://github.com/badamczewski/PowerUp) - ⚡ Decompilation Tools and High Productivity Utilities ⚡
+- [TASVideos/tasvideos](https://github.com/TASVideos/tasvideos) - The code for the live TASVideos website
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [terrafx/terrafx](https://github.com/terrafx/terrafx) - A framework for developing multimedia-based applications.
@@ -276,6 +282,7 @@
 
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [gcervantes8/Game-Image-Generator](https://github.com/gcervantes8/Game-Image-Generator) - Using Deep Learning to create fake images of games using PyTorch
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
 
 ## deployment 
@@ -371,7 +378,7 @@
 
 ## games 
 
-- [gcervantes8/Game-Image-Generator](https://github.com/gcervantes8/Game-Image-Generator) - Deep learning project to create fake images of games (currently only Mario 64) with a Deep Convolutional Generative Adversarial Network (DCGAN) in Pytorch
+- [gcervantes8/Game-Image-Generator](https://github.com/gcervantes8/Game-Image-Generator) - Using Deep Learning to create fake images of games using PyTorch
 
 ## git 
 
@@ -408,7 +415,7 @@
 
 ## graphql 
 
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
@@ -423,6 +430,7 @@
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [TASVideos/tasvideos](https://github.com/TASVideos/tasvideos) - The code for the live TASVideos website
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
@@ -433,9 +441,11 @@
 - [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+- [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
@@ -453,7 +463,7 @@
 
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [gcervantes8/Game-Image-Generator](https://github.com/gcervantes8/Game-Image-Generator) - Deep learning project to create fake images of games (currently only Mario 64) with a Deep Convolutional Generative Adversarial Network (DCGAN) in Pytorch
+- [gcervantes8/Game-Image-Generator](https://github.com/gcervantes8/Game-Image-Generator) - Using Deep Learning to create fake images of games using PyTorch
 - [accord-net/framework](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET
 
 ## ios 
@@ -537,6 +547,7 @@
 ## machine-learning 
 
 - [HyperGAN/HyperGAN](https://github.com/HyperGAN/HyperGAN) - Composable GAN framework with api and user interface
+- [gcervantes8/Game-Image-Generator](https://github.com/gcervantes8/Game-Image-Generator) - Using Deep Learning to create fake images of games using PyTorch
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [accord-net/framework](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET
@@ -598,6 +609,7 @@
 
 ## others 
 
+- [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [veo-labs/ldap-server-mock](https://github.com/veo-labs/ldap-server-mock) - Really simple basic mock for LDAP server
@@ -627,7 +639,6 @@
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
-- [TASVideos/tasvideos](https://github.com/TASVideos/tasvideos) - The code for the live TASVideos website
 - [arizzitano/css3wordart](https://github.com/arizzitano/css3wordart) - 1990s MS WordArt. In CSS3.
 - [mrhappyasthma/Final-Fantasy-X-HD-Cross-platform-Save-Converter](https://github.com/mrhappyasthma/Final-Fantasy-X-HD-Cross-platform-Save-Converter) - A helper tool to convert FFX saves from PS2/PS3/PS4/PSVita/Switch/Steam
 - [benjojo/dnsfs](https://github.com/benjojo/dnsfs) - Store your data in others DNS resolver cache
@@ -668,7 +679,7 @@
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ide
 - [QbeRoot/shinehax-gc](https://github.com/QbeRoot/shinehax-gc) - A GameCube save exploit for PAL Super Mario Sunshine
 - [FIX94/Nintendont](https://github.com/FIX94/Nintendont) - A Wii Homebrew Project to play GC Games on Wii and vWii on Wii U
-- [CnCNet/cnc-ddraw](https://github.com/CnCNet/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows XP, Vista, 7, 8, 10, 11 and Wine
+- [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
 - [freifunk/openwifimap-api](https://github.com/freifunk/openwifimap-api) - OpenWiFiMap database and its api
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [palewire/nrol-39-logo](https://github.com/palewire/nrol-39-logo) - A vector PDF of the official mission logo of NROL-39 released via FOIA
@@ -768,7 +779,7 @@
 
 - [HyperGAN/HyperGAN](https://github.com/HyperGAN/HyperGAN) - Composable GAN framework with api and user interface
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [gcervantes8/Game-Image-Generator](https://github.com/gcervantes8/Game-Image-Generator) - Deep learning project to create fake images of games (currently only Mario 64) with a Deep Convolutional Generative Adversarial Network (DCGAN) in Pytorch
+- [gcervantes8/Game-Image-Generator](https://github.com/gcervantes8/Game-Image-Generator) - Using Deep Learning to create fake images of games using PyTorch
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
 
 ## react 
@@ -777,7 +788,7 @@
 
 ## rest-api 
 
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 
 ## reverse-engineering 
 
