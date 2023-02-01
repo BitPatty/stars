@@ -19,6 +19,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Makefile](#makefile)
 - [NSIS](#nsis)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -207,7 +208,6 @@
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [Vestride/fancy-index](https://github.com/Vestride/fancy-index) - A responsive Apache index page.
 - [swisscom/cf-sample-app-smartmsg](https://github.com/swisscom/cf-sample-app-smartmsg) - A sample app which demonstrates how to use the Smart Messaging service on the Swisscom Application Cloud
@@ -230,6 +230,10 @@
 
 - [x13a/Volta](https://github.com/x13a/Volta) - Actions on volume buttons.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
+
+## Makefile 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## NSIS 
 
@@ -258,7 +262,7 @@
 
 ## PHP 
 
-- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for non-project managers. Designed to help you manage your projects from ideation to delivery.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -318,7 +322,7 @@
 ## Shell 
 
 - [cloudfoundry/cf-for-k8s](https://github.com/cloudfoundry/cf-for-k8s) - The open source deployment manifest for Cloud Foundry on Kubernetes
-- [mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) - Linux privilege escalation auditing tool
+- [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [tschannik/caprover-umami](https://github.com/tschannik/caprover-umami) - Caprover-umami just extends umami with some essential logic to not wipe your database on automatic deploys via docker in Caprover (or on other systems)
 
