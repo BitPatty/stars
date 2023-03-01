@@ -32,6 +32,7 @@
 - [Shell](#shell)
 - [SuperCollider](#supercollider)
 - [Svelte](#svelte)
+- [SystemVerilog](#systemverilog)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -44,6 +45,7 @@
 
 ## C 
 
+- [virtualsquare/iothnamed](https://github.com/virtualsquare/iothnamed) - A DNS server/forwarder/cache for the Internet of Threads
 - [alt-romes/programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 - [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -174,6 +176,7 @@
 
 ## Java 
 
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [cornerpirate/JS2PDFInjector](https://github.com/cornerpirate/JS2PDFInjector) - Inject a JS file into a PDF file.
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [promregator/promregator](https://github.com/promregator/promregator) - Prometheus Aggregator for Cloud Foundry (Core Component)
@@ -210,7 +213,6 @@
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [Vestride/fancy-index](https://github.com/Vestride/fancy-index) - A responsive Apache index page.
-- [swisscom/cf-sample-app-smartmsg](https://github.com/swisscom/cf-sample-app-smartmsg) - A sample app which demonstrates how to use the Smart Messaging service on the Swisscom Application Cloud
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [elsehow/aaronson-oracle](https://github.com/elsehow/aaronson-oracle) - Press the 'f' and 'd' keys randomly. It's easy. Just use your "free will."
 - [meehow/2read](https://github.com/meehow/2read) - Convert article in current tab to readable form and upload it to P2P network - IPFS
@@ -245,13 +247,15 @@
 
 ## Others 
 
+- [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources.
+- [YuzukiHD/YuzukiLOHCC-PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332
 - [aldelaro5/ghidra-gekko-broadway-lang](https://github.com/aldelaro5/ghidra-gekko-broadway-lang) - Ghidra language definition for the Gekko and Broadway CPU variant used in the Nintendo GameCube and Nintendo Wii respectively
 - [itsdouges/awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem) - 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [saltyrtc/saltyrtc-meta](https://github.com/saltyrtc/saltyrtc-meta) - Protocol description and organisational information for SaltyRTC implementations.
-- [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from http://www.pouet.net/topic.php?which=10882&page=1
+- [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - A guide to learn and become active in the demoscene within a couple of weeks
 - [amzn/computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) - Computer Vision Basics in Microsoft Excel (using just formulas)
 - [palewire/nrol-39-logo](https://github.com/palewire/nrol-39-logo) - A vector PDF of the official mission logo of NROL-39 released via FOIA
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -321,6 +325,7 @@
 
 ## Shell 
 
+- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
 - [cloudfoundry/cf-for-k8s](https://github.com/cloudfoundry/cf-for-k8s) - The open source deployment manifest for Cloud Foundry on Kubernetes
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
@@ -333,6 +338,10 @@
 ## Svelte 
 
 - [daehli/earthwalker](https://github.com/daehli/earthwalker) - Geoguesser like game
+
+## SystemVerilog 
+
+- [schnommus/eurorack-pmod](https://github.com/schnommus/eurorack-pmod) - Hardware and gateware for getting started in FPGA-based audio synthesis with open source tools.
 
 ## TeX 
 
