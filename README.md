@@ -40,6 +40,7 @@
 
 ## Assembly 
 
+- [phoreverpheebs/gibberish](https://github.com/phoreverpheebs/gibberish) - Hello, World! written in seemingly "gibberish" x86 assembly using obfuscation on the assembly and machine code -level
 - [w23/bepct4k](https://github.com/w23/bepct4k) - 4k intro framework in pure assembly. No Visual Studio required!
 - [QbeRoot/shinehax-gc](https://github.com/QbeRoot/shinehax-gc) - A GameCube save exploit for PAL Super Mario Sunshine
 
@@ -81,7 +82,7 @@
 - [Hubert-Rybak/dotnet-warp](https://github.com/Hubert-Rybak/dotnet-warp) - .NET Core global tool for producing single executable using Warp
 - [shanselman/PowerPointToOBSSceneSwitcher](https://github.com/shanselman/PowerPointToOBSSceneSwitcher) - A .NET core based scene switcher than connects to OBS and changes scenes based note meta data. Put "OBS:Your Scene Name" as the first line in your notes and ensure the OBS Web Sockets Server is runnin
 - [terrafx/terrafx](https://github.com/terrafx/terrafx) - A framework for developing multimedia-based applications.
-- [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET Core micro-framework that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
+- [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 - [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
 - [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp) - .NET wrapper for Gtk and other related libraries
 - [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you ever
@@ -92,7 +93,7 @@
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ide
 - [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
-- [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
+- [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
