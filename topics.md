@@ -54,6 +54,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -87,11 +88,13 @@
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [open-source](#open-source)
+- [opencv](#opencv)
 - [opengl](#opengl)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [perl](#perl)
 - [phaser](#phaser)
 - [php](#php)
@@ -108,6 +111,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
 - [spring-boot](#spring-boot)
@@ -443,6 +447,10 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [cloudfoundry/stratos](https://github.com/cloudfoundry/stratos) - Stratos: Web-based Management UI for Cloud Foundry and Kubernetes
 
+## good-first-issue 
+
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
 ## graphql 
 
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
@@ -659,6 +667,10 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 
+## opencv 
+
+- [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
+
 ## opengl 
 
 - [Gargaj/Bonzomatic](https://github.com/Gargaj/Bonzomatic) - Live shader coding tool and Shader Showdown workhorse
@@ -666,11 +678,14 @@
 
 ## others 
 
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+- [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
+- [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [phoreverpheebs/gibberish](https://github.com/phoreverpheebs/gibberish) - Hello, World! written in seemingly "gibberish" x86 assembly using obfuscation on the assembly and machine code -level
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources.
 - [virtualsquare/iothnamed](https://github.com/virtualsquare/iothnamed) - A DNS server/forwarder/cache for the Internet of Threads
 - [YuzukiHD/YuzukiLOHCC-PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332
-- [schnommus/eurorack-pmod](https://github.com/schnommus/eurorack-pmod) - Hardware and gateware for getting started in FPGA-based audio synthesis with open source tools.
+- [apfelaudio/eurorack-pmod](https://github.com/apfelaudio/eurorack-pmod) - Hardware and gateware for getting started in FPGA-based audio synthesis with open source tools.
 - [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
@@ -739,7 +754,6 @@
 - [stryku/okon](https://github.com/stryku/okon) - Fast offline searching for SHA-1 keys in Have I Been Pwned databases
 - [amzn/computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) - Computer Vision Basics in Microsoft Excel (using just formulas)
 - [smontanari/code-forensics](https://github.com/smontanari/code-forensics) - A toolset for code analysis and report visualisation
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ide
 - [QbeRoot/shinehax-gc](https://github.com/QbeRoot/shinehax-gc) - A GameCube save exploit for PAL Super Mario Sunshine
 - [FIX94/Nintendont](https://github.com/FIX94/Nintendont) - A Wii Homebrew Project to play GC Games on Wii and vWii on Wii U
@@ -758,7 +772,7 @@
 - [ixy-languages/ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
 - [elsehow/aaronson-oracle](https://github.com/elsehow/aaronson-oracle) - Press the 'f' and 'd' keys randomly. It's easy. Just use your "free will."
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
-- [cchsuper/multimario-stats](https://github.com/cchsuper/multimario-stats) - Stats program for Multi-Mario races.
+- [1up-dev/multimario-stats](https://github.com/1up-dev/multimario-stats) - Stats program for Multi-Mario races.
 - [yswenli/SAEA](https://github.com/yswenli/SAEA) - SAEA.Socket is a high-performance IOCP framework TCP based on dotnet standard 2.0; Src contains its application test scenarios, such as websocket,rpc, redis driver, MVC WebAPI, lightweight message ser
 - [SCS-CBU-CED-IAM/mobileid](https://github.com/SCS-CBU-CED-IAM/mobileid) - Mobile ID Sample Scripts
 - [speedcontrol/nodecg-speedcontrol](https://github.com/speedcontrol/nodecg-speedcontrol) - NodeCG bundle to help facilitate the running of speedrunning marathons, including overlays.
@@ -785,6 +799,10 @@
 ## parsing 
 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+## penetration-testing 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## perl 
 
@@ -829,6 +847,7 @@
 
 ## python 
 
+- [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [HyperGAN/HyperGAN](https://github.com/HyperGAN/HyperGAN) - Composable GAN framework with api and user interface
@@ -883,6 +902,11 @@
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
+
+## self-hosted 
+
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## server 
 
@@ -986,6 +1010,7 @@
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
 - [kaylh/RetroBat](https://github.com/kaylh/RetroBat) - RetroBat is the best way to play your ROMs collection on Windows !
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
