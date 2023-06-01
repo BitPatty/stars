@@ -59,7 +59,6 @@
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [valinet/Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - A simple utility that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11
-- [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) - a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory re
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [anttihirvonen/demoscene-starter-kits](https://github.com/anttihirvonen/demoscene-starter-kits) - Want to start making demos but don't know where to begin? Look no further!
 - [Francesco149/weebp](https://github.com/Francesco149/weebp) - free and open-source wallpaper engine, set any window as your wallpaper
@@ -120,6 +119,7 @@
 
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
+- [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) - a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory re
 - [mscdex/mmmagic](https://github.com/mscdex/mmmagic) - An async libmagic binding for node.js for detecting content types by data inspection
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [Zephiles/sms-tools](https://github.com/Zephiles/sms-tools) - REL Loader for Super Mario Sunshine.
@@ -287,6 +287,9 @@
 
 ## Python 
 
+- [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
+- [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
+- [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [tarasglek/metallize](https://github.com/tarasglek/metallize) - Create and manage bare metal disk images from docker images
 - [FPSG-UIUC/hertzbleed](https://github.com/FPSG-UIUC/hertzbleed) - 
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
@@ -305,7 +308,7 @@
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
 - [freifunk/openwifimap-api](https://github.com/freifunk/openwifimap-api) - OpenWiFiMap database and its api
 - [exchangeratesapi/exchangeratesapi](https://github.com/exchangeratesapi/exchangeratesapi) - Exchange Rates API
-- [cchsuper/multimario-stats](https://github.com/cchsuper/multimario-stats) - Stats program for Multi-Mario races.
+- [1up-dev/multimario-stats](https://github.com/1up-dev/multimario-stats) - Stats program for Multi-Mario races.
 - [leovoel/BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds custom CSS support to Discord.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) - api3.geo.admin.ch source code.
@@ -326,6 +329,7 @@
 
 ## Shell 
 
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
 - [cloudfoundry/cf-for-k8s](https://github.com/cloudfoundry/cf-for-k8s) - The open source deployment manifest for Cloud Foundry on Kubernetes
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
@@ -342,7 +346,7 @@
 
 ## SystemVerilog 
 
-- [schnommus/eurorack-pmod](https://github.com/schnommus/eurorack-pmod) - Hardware and gateware for getting started in FPGA-based audio synthesis with open source tools.
+- [apfelaudio/eurorack-pmod](https://github.com/apfelaudio/eurorack-pmod) - Hardware and gateware for getting started in FPGA-based audio synthesis with open source tools.
 
 ## TeX 
 
